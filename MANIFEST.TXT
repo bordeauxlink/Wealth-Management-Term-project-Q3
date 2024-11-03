@@ -1,0 +1,18 @@
+IQPF - HEC Questionnaire 10-15-2021.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) 95558 bytes.
+C_HEC-21-2697 OECE 081121 IQPF.sav (application/x-spss-sav) 503911 bytes.
+C_HEC-21-2697 OECE 081121 IQPF.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 150252 bytes.
+FP Canada - HEC Questionnaire 10-15-2021-FR.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) 109457 bytes.
+C_HEC-21-2697 OECE Datamap 081121 FP.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 39835 bytes.
+rename.py (text/x-python-script) 24025 bytes.
+C_HEC-21-2697 OECE 081121 FP.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 502671 bytes.
+DataDictionary.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 17028 bytes.
+clean_all_longv.csv (text/csv) 14478686 bytes.
+clean_all.dta (application/x-stata-14) 685658 bytes.
+C_HEC-21-2697 OECE 081121 FP.sav (application/x-spss-sav) 1546183 bytes.
+IQPF - HEC Questionnaire 10-15-2021-FR.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) 108202 bytes.
+C_HEC-21-2697 OECE 081121 IQPF.asc (text/x-fixed-field) 176880 bytes.
+C_HEC-21-2697 OECE Datamap 081121 IQPF.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 37350 bytes.
+1_Clean.py (text/x-python-script) 7234 bytes.
+C_HEC-21-2697 OECE 081121 FP.asc (text/x-fixed-field) 592548 bytes.
+clean_all.csv (text/csv) 1722279 bytes.
+FP Canada - HEC Questionnaire 10-15-2021.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) 96425 bytes.

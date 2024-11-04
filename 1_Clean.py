@@ -30,9 +30,9 @@ if __name__ == "__main__":
 # Import the data and merge FP and IQPF together * 
 #*************************************************
 
-fp_df = pd.read_excel("DataRaw/C_HEC-21-2697 OECE 081121 FP.xlsx", sheet_name="Sheet1", header=0) # Import the raw FP data (804x198)
+fp_df = pd.read_excel("C_HEC-21-2697 OECE 081121 FP.xlsx", sheet_name="Sheet1", header=0) # Import the raw FP data (804x198)
 fp_df['sample'] = 0     # Generate variable to identify FP Canada observations
-iqpf_df = pd.read_excel("DataRaw/C_HEC-21-2697 OECE 081121 IQPF.xlsx", sheet_name="Sheet1", header=0)    # Import the raw IQPF data (240x198)
+iqpf_df = pd.read_excel("C_HEC-21-2697 OECE 081121 IQPF.xlsx", sheet_name="Sheet1", header=0)    # Import the raw IQPF data (240x198)
 iqpf_df['sample'] = 1 
 df_raw = pd.concat([iqpf_df, fp_df], ignore_index=True)     # The Appended data (1044x199)
 df = df_raw.copy()
